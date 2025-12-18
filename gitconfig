@@ -61,7 +61,7 @@
   defaultBranch = master
 [user]
 	email = 59345369+marceloesparza@users.noreply.github.com
-	name = Marcelo Esparza 59345369+marceloesparza@users.noreply.github.com
+	name = Marcelo Esparza
 [credential "https://github.com"]
 	helper = 
 	helper = !/usr/bin/gh auth git-credential
